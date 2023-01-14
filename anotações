@@ -1,6 +1,0 @@
-pyautogui.click -> clicar
-pyautogui.write -> escrever
-pyautogui.press -> pressionar
-pyautogui.hotkey -> atalho
-pyautogui.PAUSE = 'tempoEmSegundos' -> coloca um intervalo definido entre cada ação
-property.FAILSAFE = True -> sempre que encostar o mouse no ponto superior esquerdo da tela, pausa o codigo
