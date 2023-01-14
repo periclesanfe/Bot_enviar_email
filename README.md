@@ -12,15 +12,15 @@ Esse codigo pode ser usado em um projeto maior, em loop lendo emails de uma base
 <img src="https://img.shields.io/badge/PYPERCLIP-green">
 </p>
 
-a biblioteca pyperclip é instalada junto com o PYAUTOGUI, para isso execute o comando no cmd do python: pip install pyautogui
-caso o pyperclip nao seja reconhecido, executar: pip install pyperclip
+a biblioteca pyperclip é instalada junto com o PYAUTOGUI, para isso execute o comando no cmd do python:<br> pip install pyautogui<br><br>
+caso o pyperclip nao seja reconhecido, executar:<br> pip install pyperclip
 
 # NOÇÕES BASICAS DE PYAUTOGUI
 
-import pyautogui
+import pyautogui<br>
 
-pyautogui.click() -> clicar
-pyautogui.write('') -> escrever
-pyautogui.press() -> pressionar
-pyautogui.hotkey('','') -> atalho
-pyautogui.PAUSE = 'tempoEmSegundos' -> coloca um intervalo definido entre cada ação
+pyautogui.click() -> clicar<br>
+pyautogui.write('') -> escrever<br>
+pyautogui.press() -> pressionar<br>
+pyautogui.hotkey('','') -> atalho<br>
+pyautogui.PAUSE = 'tempoEmSegundos' -> coloca um intervalo definido entre cada ação.
